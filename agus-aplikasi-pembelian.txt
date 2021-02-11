@@ -8,3 +8,4 @@ PEMBUATAN APLIKASI PEMBELIAN
  -koordinasi dg pihak terkait
   divisi dan departemen
  -dikoordninir 1 administrator menu
+  menu user previllage
