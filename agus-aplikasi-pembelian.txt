@@ -1,0 +1,7 @@
+PEMBUATAN APLIKASI PEMBELIAN
+-integrasi dg apliaksi aset
+  apakah setelah belajar framework
+-integrasi namun beda index
+  halaman login sudah menggunakan siPERUMDAM
+-perancangan database
+  menggunakan databse yg sama atau baru dalam1 server
