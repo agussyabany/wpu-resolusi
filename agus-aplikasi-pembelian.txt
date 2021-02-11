@@ -7,3 +7,4 @@ PEMBUATAN APLIKASI PEMBELIAN
   menggunakan databse yg sama atau baru dalam1 server
  -koordinasi dg pihak terkait
   divisi dan departemen
+ -dikoordninir 1 administrator menu
