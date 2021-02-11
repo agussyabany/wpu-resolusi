@@ -1,0 +1,4 @@
+PEMBUATAN APLIKASI PEMBELIAN
+-integrasi dg apliaksi aset
+-integrasi namun beda index
+-perancangan database
