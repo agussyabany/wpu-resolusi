@@ -7,4 +7,6 @@ PEMBUATAN APLIKASI PEMBELIAN
   menggunakan databse yg sama atau baru dalam1 server
  -koordinasi dg pihak terkait
   divisi dan departemen
- -menggunakan server fisik
+-dikoordninir 1 administrator menu
+  menu user previllage
+
