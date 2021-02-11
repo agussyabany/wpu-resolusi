@@ -5,3 +5,5 @@ PEMBUATAN APLIKASI PEMBELIAN
   halaman login sudah menggunakan siPERUMDAM
 -perancangan database
   menggunakan databse yg sama atau baru dalam1 server
+ -koordinasi dg pihak terkait
+  divisi dan departemen
